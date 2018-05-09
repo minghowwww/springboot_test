@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="2" lines-valid="2" branches-covered="0" branches-valid="0" complexity="1.0" version="2.1.1" timestamp="1524894328225">
+	<sources>
+		<source>/home/nio/ideaprojects/boot-test/src/main/java</source>
+		<source>/home/nio/ideaprojects/boot-test/target/generated-sources/annotations</source>
+		<source>--source</source>
+	</sources>
+	<packages>
+		<package name="com.nio.boottest.controller" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.nio.boottest.controller.NioController" filename="com/nio/boottest/controller/NioController.java" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="12" hits="3" branch="false"/>
+							</lines>
+						</method>
+						<method name="controller1" signature="()Ljava/util/ArrayList;" line-rate="1.0" branch-rate="1.0" complexity="0">
+							<lines>
+								<line number="19" hits="1" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="12" hits="3" branch="false"/>
+						<line number="19" hits="1" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
